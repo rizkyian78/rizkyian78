@@ -1,19 +1,19 @@
 ### Hey 👋🏽, I'm [Rizky Ian Indiarto](https://website-portofolio-ian.vercel.app/)
-people call me `Fajri` 
+people call me `Ian` 
 
 <img width="100%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br />
 
-Hi, I'm Nurul Fajri, a Full Stack Developer 🚀 from Indonesia, currently, I'm a working on [Karcisbola](https://github.com/Karcisbola).
+Hi, I'm Rizky Ian Indiarto, a Full Stack Developer 🚀 from Indonesia, currently, I'm a working on [Nusantech](https://nusantech.com/).
 Beside's programming, I enjoy eating food and traveling. I am still learning to get the best experience. I like to explore 🏔️ new things related to technology.
 
 I love playing with 🐧 penguins and eating apples 🍏
 
 **Follow Me:**
 
-<a href="https://www.linkedin.com/in/masb0ymas">
-  <img align="left" alt="Nurul Fajri | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/rizky-ian-indiarto-123rzky/">
+  <img align="left" alt="Rizky Ian Indiarto | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://twitter.com/masb0ymas">
   <img align="left" alt="Aji Ajjha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
@@ -53,7 +53,7 @@ I love playing with 🐧 penguins and eating apples 🍏
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masb0ymas&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyian78&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My Github Stat](https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true&theme=vue-dark)
 
