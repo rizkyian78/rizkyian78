@@ -54,14 +54,3 @@ code><img height="30" src="https://raw.githubusercontent.com/github/explore/8068
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyian78&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My Github Stat](https://github-readme-stats.vercel.app/api?username=rizkyian78&show_icons=true&hide_border=true&theme=vue-dark)
-
-
-⭐️ From [masb0ymas](https://github.com/masb0ymas)
-
-<a href="https://github.com/masb0ymas/express-gateway-typescript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=express-gateway-typescript&theme=vue-dark" />
-</a>
-
-<a href="https://github.com/masb0ymas/boilerplate-express-typescript-sequelize">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=boilerplate-express-typescript-sequelize&theme=vue-dark" />
-</a>
