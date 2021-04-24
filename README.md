@@ -28,10 +28,10 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on [Karcisbola](https://github.com/Karcisbola) ⚽️
+- 💻 I’m currently working on [Nusantech](https://nusantech.com/) ⚽️
 - 🌱 I’m currently learning [NextJs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Docker](https://www.docker.com/),  and [Kubernetes](https://kubernetes.io/)
-- 📫 How to reach me: n.fajri@outlook.com
-- 📝 [Resume](https://resume.masb0ymas.vercel.app/)
+- 📫 How to reach me: rizkyian78@gmail.com
+- 📝 [Resume](https://website-portofolio-ian.vercel.app/)
 
 **Languages and Tools:**
 
