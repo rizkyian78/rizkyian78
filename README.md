@@ -28,7 +28,7 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on [Nusantech](https://nusantech.com/) ⚽️
+- 💻 I’m currently working on [Nusantech](https://nusantech.com/)
 - 🌱 I’m currently learning [NextJs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Docker](https://www.docker.com/),  and [Kubernetes](https://kubernetes.io/)
 - 📫 How to reach me: rizkyian78@gmail.com
 - 📝 [Resume](https://website-portofolio-ian.vercel.app/)
@@ -42,7 +42,7 @@ I love playing with 🐧 penguins and eating apples 🍏
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
