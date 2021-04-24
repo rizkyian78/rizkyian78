@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Nurul Fajri](https://resume.masb0ymas.vercel.app/)
+### Hey 👋🏽, I'm [Rizky Ian Indiarto](https://website-portofolio-ian.vercel.app/)
 people call me `Fajri` 
 
 <img width="100%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
