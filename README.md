@@ -55,7 +55,7 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyian78&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![My Github Stat](https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true&theme=vue-dark)
+![My Github Stat](https://github-readme-stats.vercel.app/api?username=rizkyian78&show_icons=true&hide_border=true&theme=vue-dark)
 
 
 ⭐️ From [masb0ymas](https://github.com/masb0ymas)
