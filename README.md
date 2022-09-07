@@ -5,7 +5,7 @@ people call me `Ian`
 
 <br />
 
-Hi, I'm Rizky Ian Indiarto, a Full Stack Developer 🚀 from Indonesia, currently, I'm a working on [Nusantech](https://nusantech.com/).
+Hi, I'm Rizky Ian Indiarto, a Full Stack Developer 🚀 from Indonesia, currently, I'm a working on [Brankas](https://brank.as/).
 Beside's programming, I enjoy eating food and traveling. I am still learning to get the best experience. I like to explore 🏔️ new things related to technology.
 
 I love playing with 🐧 penguins and eating apples 🍏
@@ -28,7 +28,7 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on [Nusantech](https://nusantech.com/)
+- 💻 I’m currently working on [Brankas](https://brank.as/)
 - 🌱 I’m currently learning [NextJs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Docker](https://www.docker.com/),  and [Kubernetes](https://kubernetes.io/)
 - 📫 How to reach me: rizkyian78@gmail.com
 - 📝 [Resume](https://website-portofolio-ian.vercel.app/)
