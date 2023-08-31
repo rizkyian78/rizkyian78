@@ -31,7 +31,7 @@ I love playing with 🐧 penguins and eating apples 🍏
 - 💻 I’m currently working on [Brankas](https://brank.as/)
 - 🌱 I’m currently learning [NextJs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Docker](https://www.docker.com/),  and [Kubernetes](https://kubernetes.io/)
 - 📫 How to reach me: rizkyian78@gmail.com
-- 📝 [Resume](https://website-portofolio-ian.vercel.app/)
+- 📝 [Resume](https://rizkyian.com/)
 
 **Languages and Tools:**
 
